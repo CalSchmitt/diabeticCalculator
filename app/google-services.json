@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249693510582",
+    "project_id": "diabeticcalculator-cc075",
+    "storage_bucket": "diabeticcalculator-cc075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249693510582:android:fd22112ba2ae4aae3b7f17",
+        "android_client_info": {
+          "package_name": "com.example.diabeticcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249693510582-371uim5c62amo0lu8h6l9t665kulsihn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVk8_ghAuh_6W4gqURyqSd87Xy1XIavm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249693510582-371uim5c62amo0lu8h6l9t665kulsihn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
